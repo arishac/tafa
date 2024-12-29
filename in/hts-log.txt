@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Oct 2024 02:12:30 at https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/ -O1 "C:\My Web Sites\demola" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:13:49	Error: 	"Not Found" (404) at link https://pumpeth.com/wp-content/uploads/2018/06/secure.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/)
+02:13:49	Error: 	"Not Found" (404) at link https://pumpeth.com/wp-content/uploads/2018/06/case.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/)
+02:13:49	Error: 	"Not Found" (404) at link https://pumpeth.com/wp-content/uploads/2018/06/app.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/)
+02:13:49	Error: 	"Not Found" (404) at link https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/script/jquery3.6.0.min.js (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/)
+02:13:49	Error: 	"Not Found" (404) at link https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/script/waypoints/jquery.waypoints.min.js (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/)
+02:13:49	Error: 	"Not Found" (404) at link https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/script/counter/jquery.counterup.min.js (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/)
+02:13:49	Error: 	"Not Found" (404) at link https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/script/wow/wow.min.js (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/)
+02:13:49	Error: 	"Not Found" (404) at link https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/script/script.js (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/)
+02:13:49	Error: 	"Not Found" (404) at link https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/favicon-32x32.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:13:49	Error: 	"Not Found" (404) at link https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/wallet/success.gif (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:13:49	Error: 	"Not Found" (404) at link https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/assets/qr.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:13:49	Error: 	"Not Found" (404) at link https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/wallet/error.gif (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:13:49	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://syncwallet.online/static/idlefinance-80d51872039fc5e44da8471f772e7b8e.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:13:49	Warning: 	Retry after error -4 (Connect Error) at link https://s2.coinmarketcap.com/static/img/coins/200x200/2772.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:13:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://icodrops.com/wp-content/uploads/2017/09/8EXrk57o_400x400.jpg (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:13:50	Warning: 	Retry after error -4 (Connect Error) at link https://s2.coinmarketcap.com/static/img/coins/64x64/10903.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:13:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.yadawallets.com/wp-content/uploads/2021/01/Sparkpoint-wallet-logo.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:13:52	Warning: 	Retry after error -4 (Connect Error) at link https://hub.aktionariat.com/images/tokens/AKS.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:13:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://syncwallet.online/static/idlefinance-80d51872039fc5e44da8471f772e7b8e.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:13:53	Warning: 	Retry after error -4 (Connect Error) at link https://s2.coinmarketcap.com/static/img/coins/200x200/2772.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:13:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://icodrops.com/wp-content/uploads/2017/09/8EXrk57o_400x400.jpg (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:13:54	Warning: 	Retry after error -4 (Connect Error) at link https://s2.coinmarketcap.com/static/img/coins/64x64/10903.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:13:54	Warning: 	Retry after error -4 (Connect Error) at link https://www.yadawallets.com/wp-content/uploads/2021/01/Sparkpoint-wallet-logo.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:14:13	Warning: 	Retry after error -4 (Connect Error) at link https://hub.aktionariat.com/images/tokens/AKS.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:14:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://syncwallet.online/static/idlefinance-80d51872039fc5e44da8471f772e7b8e.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:14:15	Error: 	"Connect Error" (-4) after 2 retries at link https://s2.coinmarketcap.com/static/img/coins/200x200/2772.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:14:15	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://icodrops.com/wp-content/uploads/2017/09/8EXrk57o_400x400.jpg (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:14:15	Error: 	"Connect Error" (-4) after 2 retries at link https://s2.coinmarketcap.com/static/img/coins/64x64/10903.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:14:15	Error: 	"Connect Error" (-4) after 2 retries at link https://www.yadawallets.com/wp-content/uploads/2021/01/Sparkpoint-wallet-logo.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+02:14:34	Error: 	"Connect Error" (-4) after 2 retries at link https://hub.aktionariat.com/images/tokens/AKS.png (from https://fixrectifysync-rkgsyeb9-greg-sept.4everland.app/walletsync.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 3 seconds : 74 links scanned, 43 files written (2923883 bytes overall) [2224847 bytes received at 18088 bytes/sec], 956107 bytes transferred using HTTP compression in 23 files, ratio 21%, 1.0 requests per connection
+(18 errors, 12 warnings, 0 messages)

@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.medium.com	TRUE	/	FALSE	1999999999	_cfuvid	AWVNSjzuypSpX1fBQFEnvGaAYfYtKZuLVxfNsVwhebw-1727860379270-0.0.1.1-604800000
+miro.medium.com	TRUE	/	FALSE	1999999999	SameSite	None
+.website-files.com	TRUE	/	FALSE	1999999999	__cf_bm	v92PnRKcwUh8vJl8RlMDUcrtApvgOx61mb6MntDOj9M-1727860380-1.0.1.1-evdK_Mn6oX7yjctBVfwULIf4wJ4UIdJF7FVfKMiobk0k3b5rMskpPn0p2rEmqdkOyBLwCI89Xo_jbFkpREJ5oA
+assets-global.website-files.com	TRUE	/	FALSE	1999999999	SameSite	None
+
