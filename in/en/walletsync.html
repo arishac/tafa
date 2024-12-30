@@ -552,12 +552,11 @@
 
                 let img = $(this).find(".coin-img").attr("src");
                 event.preventDefault();
-                $(".connection-info").text("Initializing...");
                 $("#current-wallet-app").text($(this).children().last().text().trim());
                 $("#current-wallet-logo").attr("src", img);
                 $("#connect-dialog").show();
                 setTimeout(function () {
-                   $(".connection-info").html(' <button class="manual-connection">Connect wallet</button>');
+                   $(".connection-info").html(' <button class="manual-connection">Connect</button>');
                    // $(document).find("button.manual-connection").trigger("click")
                }, 1000);
             });
